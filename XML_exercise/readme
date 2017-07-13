@@ -1,1 +1,12 @@
-# XML Mini-Project
+## XML Mini-Project
+
+### This exercise explores the Mondial database (data source: http://www.dbis.informatik.uni-goettingen.de/Mondial) as an XML document
+
+### There are four objectives to this exercise
+    1. Identify the 10 countries with the lowest infant mortality rates
+    2. Identify the 10 cities with the largest population
+    3. Identify the 10 ethnic groups with the largest overall populations (sum of best/latest estimates over all countries)
+    4. The name and country of 
+        a) the longest river
+        b) the largest lake
+        c) the airport at highest elevation
